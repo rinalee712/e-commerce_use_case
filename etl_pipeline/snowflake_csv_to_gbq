@@ -1,0 +1,16 @@
+##There are two ways to load snowflake-unloaded data ㅑㅜto Google BigQuery
+
+  1. load via GCS. In order to do this, you need 'gsutil' and 'bq' installed in your local environment.
+  
+  First, upload the CSV to GCS:
+  gsutil cp sales_data.csv gs://rina-data/ecommerce/sales_data.csv
+  
+  Then, load it into BigQuery:
+  bq load \
+  --autodetect \
+  --source_format=CSV \
+  my-gcp-project.ecommerce_dataset.sales_table \ --This is where you save your sales_data in GBQ
+  gs://rina-data/ecommerce/sales_data.csv --This is where your sales_data is in GCS
+
+
+  2. You can load with Python

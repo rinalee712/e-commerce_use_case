@@ -1,0 +1,101 @@
+order_id,order_date,region,product_category,product_name,quantity,unit_price,currency,payment_method,status,total_amount
+1001,2024-08-22,North America,Toys,Executive,1,117.65,EUR,Credit Card,Completed,117.65
+1002,2024-09-04,Europe,Toys,Specific,3,129.29,USD,Credit Card,Shipped,387.87
+1003,2025-01-07,Asia,Toys,Exactly,2,32.93,EUR,Credit Card,Returned,65.86
+1004,2024-09-12,Europe,Electronics,This,1,54.16,EUR,Credit Card,Completed,54.16
+1005,2025-07-17,North America,Books,Two,2,120.61,USD,PayPal,Shipped,241.22
+1006,2024-08-16,Asia,Clothing,Hundred,3,75.7,USD,PayPal,Shipped,227.1
+1007,2025-02-26,Asia,Clothing,Or,2,124.98,KRW,Wire Transfer,Returned,249.96
+1008,2024-12-09,Europe,Electronics,Grow,4,135.01,KRW,Wire Transfer,Shipped,540.04
+1009,2025-06-28,Asia,Clothing,Area,5,103.59,EUR,Wire Transfer,Completed,517.95
+1010,2024-10-03,Asia,Books,Central,1,137.91,KRW,PayPal,Completed,137.91
+1011,2024-12-10,Europe,Toys,Option,5,64.77,USD,Wire Transfer,Shipped,323.85
+1012,2024-12-09,Europe,Toys,Science,1,36.47,USD,Wire Transfer,Shipped,36.47
+1013,2024-11-05,North America,Toys,Common,2,66.8,KRW,Wire Transfer,Completed,133.6
+1014,2024-08-02,Asia,Toys,Western,4,144.97,KRW,Wire Transfer,Completed,579.88
+1015,2025-01-18,Asia,Clothing,Staff,2,31.53,KRW,PayPal,Shipped,63.06
+1016,2024-09-05,Europe,Electronics,Unit,1,28.86,USD,Credit Card,Shipped,28.86
+1017,2025-03-22,Europe,Toys,Huge,4,98.8,USD,Credit Card,Returned,395.2
+1018,2024-08-29,North America,Toys,According,1,21.61,USD,Wire Transfer,Shipped,21.61
+1019,2024-12-02,North America,Clothing,Sign,1,147.95,EUR,PayPal,Completed,147.95
+1020,2025-01-23,Asia,Toys,Blue,4,58.77,KRW,Wire Transfer,Completed,235.08
+1021,2025-07-19,Europe,Electronics,Animal,2,62.1,USD,Wire Transfer,Completed,124.2
+1022,2024-09-07,Asia,Electronics,Region,5,64.21,EUR,Credit Card,Returned,321.05
+1023,2024-09-26,Europe,Clothing,Card,3,27.71,EUR,Wire Transfer,Completed,83.13
+1024,2025-06-04,Asia,Books,What,5,64.07,USD,Wire Transfer,Completed,320.35
+1025,2024-08-10,Europe,Electronics,Film,3,72.96,KRW,Wire Transfer,Returned,218.88
+1026,2025-07-21,Asia,Clothing,Law,3,70.06,USD,Credit Card,Returned,210.18
+1027,2025-03-12,Europe,Books,Me,3,80.02,KRW,Wire Transfer,Shipped,240.06
+1028,2024-11-13,North America,Toys,Manager,1,48.05,KRW,Credit Card,Completed,48.05
+1029,2025-06-23,Europe,Toys,Although,4,16.02,KRW,Credit Card,Completed,64.08
+1030,2025-05-27,Asia,Books,Focus,1,37.18,KRW,Credit Card,Completed,37.18
+1031,2024-12-13,Asia,Toys,Nearly,1,57.76,KRW,Credit Card,Returned,57.76
+1032,2025-06-09,North America,Clothing,Meeting,4,112.28,USD,PayPal,Returned,449.12
+1033,2024-10-21,Asia,Clothing,Tend,3,65.41,USD,Wire Transfer,Completed,196.23
+1034,2025-03-26,Asia,Electronics,Purpose,5,95.28,EUR,PayPal,Returned,476.4
+1035,2025-02-22,Asia,Electronics,Other,1,60.49,EUR,PayPal,Returned,60.49
+1036,2025-06-12,Europe,Toys,Forward,3,40.32,EUR,PayPal,Completed,120.96
+1037,2024-08-06,North America,Clothing,Information,1,127.83,EUR,Wire Transfer,Shipped,127.83
+1038,2025-07-14,North America,Clothing,Specific,3,19.68,EUR,Credit Card,Shipped,59.04
+1039,2025-04-09,Asia,Toys,Must,1,142.19,USD,Wire Transfer,Shipped,142.19
+1040,2025-01-17,Europe,Electronics,Reveal,4,90.29,KRW,PayPal,Completed,361.16
+1041,2025-02-27,Asia,Clothing,Pull,3,127.72,KRW,Wire Transfer,Shipped,383.16
+1042,2025-06-07,North America,Clothing,Reflect,5,90.49,EUR,PayPal,Completed,452.45
+1043,2025-03-21,North America,Electronics,Voice,1,69.94,EUR,Wire Transfer,Completed,69.94
+1044,2025-06-21,Europe,Electronics,Mention,4,149.74,USD,PayPal,Shipped,598.96
+1045,2025-02-20,North America,Electronics,Relate,4,80.58,KRW,PayPal,Returned,322.32
+1046,2025-01-11,Asia,Electronics,House,3,112.18,USD,Wire Transfer,Completed,336.54
+1047,2025-02-16,Europe,Toys,Almost,2,149.36,EUR,PayPal,Completed,298.72
+1048,2025-06-27,Asia,Electronics,Somebody,4,104.33,USD,Credit Card,Shipped,417.32
+1049,2025-04-09,Asia,Books,Course,5,127.55,EUR,PayPal,Shipped,637.75
+1050,2025-05-10,North America,Toys,Ten,5,22.9,EUR,Wire Transfer,Returned,114.5
+1051,2024-09-03,Asia,Toys,White,2,82.9,USD,Wire Transfer,Shipped,165.8
+1052,2025-02-07,Europe,Clothing,Really,1,18.42,EUR,Wire Transfer,Shipped,18.42
+1053,2024-11-11,Asia,Toys,Conference,2,79.05,USD,Credit Card,Completed,158.1
+1054,2024-12-10,North America,Books,Green,2,20.28,USD,Credit Card,Shipped,40.56
+1055,2025-03-05,Asia,Toys,Include,5,14.19,USD,Wire Transfer,Shipped,70.95
+1056,2025-07-11,Asia,Toys,Back,2,52.59,EUR,Wire Transfer,Returned,105.18
+1057,2025-05-09,Europe,Books,Loss,5,13.64,EUR,Credit Card,Shipped,68.2
+1058,2024-12-30,North America,Clothing,Page,2,81.48,EUR,PayPal,Returned,162.96
+1059,2025-05-31,North America,Clothing,Great,1,147.71,EUR,Credit Card,Shipped,147.71
+1060,2024-08-08,North America,Clothing,Current,1,27.64,EUR,PayPal,Returned,27.64
+1061,2025-03-17,Asia,Electronics,Behavior,4,82.92,EUR,PayPal,Completed,331.68
+1062,2025-06-20,Europe,Electronics,Production,1,81.19,USD,Wire Transfer,Returned,81.19
+1063,2024-12-21,Europe,Electronics,Add,2,144.29,USD,PayPal,Completed,288.58
+1064,2025-07-16,Europe,Books,He,1,32.76,USD,PayPal,Completed,32.76
+1065,2024-10-29,North America,Books,Into,2,74.06,USD,Wire Transfer,Shipped,148.12
+1066,2025-02-24,North America,Electronics,More,2,26.01,KRW,Credit Card,Completed,52.02
+1067,2025-05-10,Asia,Electronics,Than,3,71.53,USD,Credit Card,Completed,214.59
+1068,2025-07-21,Europe,Toys,As,2,22.52,USD,PayPal,Shipped,45.04
+1069,2025-04-07,Asia,Clothing,Field,3,120.16,USD,Credit Card,Returned,360.48
+1070,2025-02-10,North America,Electronics,South,2,50.33,USD,Wire Transfer,Completed,100.66
+1071,2025-04-03,Asia,Toys,Service,4,146.71,KRW,PayPal,Shipped,586.84
+1072,2024-10-31,Asia,Books,Off,4,132.75,KRW,PayPal,Shipped,531.0
+1073,2025-02-05,Europe,Electronics,Cost,3,80.89,USD,Wire Transfer,Shipped,242.67
+1074,2024-09-30,North America,Clothing,Not,2,95.4,EUR,Credit Card,Returned,190.8
+1075,2025-01-21,Asia,Books,Human,4,98.89,USD,Credit Card,Completed,395.56
+1076,2025-05-20,Asia,Toys,Main,4,118.92,EUR,Wire Transfer,Returned,475.68
+1077,2024-08-19,Asia,Books,Action,4,13.74,KRW,Credit Card,Returned,54.96
+1078,2024-09-23,Asia,Books,Loss,2,61.17,USD,Credit Card,Returned,122.34
+1079,2024-10-16,Asia,Electronics,Against,3,26.98,USD,PayPal,Completed,80.94
+1080,2024-11-09,Europe,Toys,Successful,2,45.29,USD,Wire Transfer,Shipped,90.58
+1081,2024-12-16,Asia,Electronics,Reveal,5,26.93,EUR,PayPal,Returned,134.65
+1082,2024-11-15,Asia,Toys,Leader,4,143.94,USD,Credit Card,Completed,575.76
+1083,2025-04-05,Asia,Electronics,Kitchen,4,127.22,EUR,Wire Transfer,Completed,508.88
+1084,2024-08-02,North America,Clothing,Boy,1,68.15,USD,Credit Card,Shipped,68.15
+1085,2025-03-29,North America,Electronics,At,2,85.06,EUR,Credit Card,Shipped,170.12
+1086,2025-02-16,Europe,Electronics,Hear,1,27.08,KRW,PayPal,Shipped,27.08
+1087,2025-05-03,Asia,Electronics,Behavior,5,110.0,EUR,PayPal,Returned,550.0
+1088,2024-09-03,Asia,Toys,Lead,1,103.18,EUR,PayPal,Completed,103.18
+1089,2025-07-16,Europe,Books,Across,4,16.3,USD,Credit Card,Completed,65.2
+1090,2025-06-07,Asia,Electronics,North,5,41.13,USD,PayPal,Returned,205.65
+1091,2024-12-26,North America,Clothing,Back,5,110.57,EUR,Wire Transfer,Returned,552.85
+1092,2025-03-02,Europe,Electronics,Rule,2,22.56,USD,Wire Transfer,Shipped,45.12
+1093,2025-04-05,Asia,Electronics,International,2,104.53,USD,Wire Transfer,Returned,209.06
+1094,2024-08-13,North America,Electronics,Future,4,121.6,EUR,Wire Transfer,Shipped,486.4
+1095,2024-11-11,Europe,Books,Marriage,4,146.4,KRW,Wire Transfer,Completed,585.6
+1096,2024-08-14,North America,Electronics,Social,2,31.31,KRW,Credit Card,Returned,62.62
+1097,2025-03-08,Asia,Toys,Good,3,81.41,KRW,PayPal,Shipped,244.23
+1098,2025-01-09,Europe,Books,Happen,5,84.08,KRW,Wire Transfer,Completed,420.4
+1099,2024-08-11,North America,Books,Purpose,5,116.24,KRW,Wire Transfer,Completed,581.2
+1100,2025-04-06,Europe,Books,Common,5,77.12,EUR,PayPal,Shipped,385.6

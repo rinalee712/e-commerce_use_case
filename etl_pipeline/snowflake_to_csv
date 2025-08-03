@@ -1,0 +1,10 @@
+## Unload data from Snowflake to Internal Stage. You can simply export direcrtly from the cloud if the table is less than 10,000 rows. Otherwise, you have to use 'COPY INTO'
+
+--Create the internal stage if not already created
+CREATE OR REPLACE STAGE rina_internal_stage;
+
+--Unload data from a Snowflake table to the internal stage as a single CSV file
+COPY INTO @rina_internal_stage/sales_data.csv
+FROM my_db.public.sales_table
+FILE_FORMAT = (TYPE = CSV FIELD_OPTIONALLY_ENCLOSED_BY='"' HEADER=TRUE)
+SINGLE = TRUE;

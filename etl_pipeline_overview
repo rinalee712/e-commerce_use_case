@@ -2,9 +2,10 @@ ETL Overview: Load External Data to BigQuery
 
 This document explains the ETL process used to load raw data into Google BigQuery using Python.  
 It simulates two types of pipelines:
-
 1. Loading external CSV/Excel files
 2. Migrating raw data from Snowflake into BigQuery
+
+
 
 ## Full ETL Flow ##
 [CSV or Excel file]          /      [Snowflake Table]

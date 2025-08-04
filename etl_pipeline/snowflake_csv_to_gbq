@@ -1,4 +1,4 @@
-##There are two ways to load snowflake-unloaded data ㅑㅜto Google BigQuery
+##There are two ways to load snowflake-unloaded data into Google BigQuery
 
   1. load via GCS. In order to do this, you need 'gsutil' and 'bq' installed in your local environment.
   

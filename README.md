@@ -9,9 +9,14 @@ This project is designed to:
 - Model and query the data in BigQuery
 - Caclulate key business KPIs and generate insights using SQL
 
-🛠 Tools Used
+🛠 Tools Used & How They're Applied
 - SQL (Google BigQuery)
+    Used for all data exploration, transformation, and KPI caclulation queries.
 - ETL pipeline Design (Python and BigQuery)
-- Data Transformation (Using CTEs and window functions)
-- Busines Metrics
-- Simulated Extractss (From Snowflake, Excel, and CSV)
+    Designed and implemented simple ETL flows to load data from CSVs and simulate data ingestion from Snowflake exports.
+- Data Transformation in SQL 
+    Applied CTEs, window functions, and joins to model data for business insights.
+- Business Metrics 
+    Created KPI queries such as monthly reveune, cusstomer analysis, and top N products performance.
+- Simulated Extracts
+    Demonstrated ingestion of external data sources such as Snowflake (via simulated CSV), Excel, and raw CSV into BigQuery
